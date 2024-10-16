@@ -2,6 +2,8 @@
 
 
 Descripción de la Solución
+
+
 Este proyecto utiliza PySpark para realizar el procesamiento de un conjunto de datos almacenado en un archivo CSV. La solución incluye las siguientes etapas:
 
 Inicialización de la Sesión de Spark: Se establece una sesión de Spark para la ejecución de las tareas.
